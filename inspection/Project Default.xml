@@ -409,7 +409,7 @@
   <inspection_tool class="PhpUndefinedMethodInspection" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="PhpUndefinedNamespaceInspection" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="PhpUndefinedVariableInspection" enabled="true" level="WARNING" enabled_by_default="true" />
-  <inspection_tool class="PhpUnhandledExceptionInspection" enabled="true" level="WARNING" enabled_by_default="true" />
+  <inspection_tool class="PhpUnhandledExceptionInspection" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="PhpUnitCoversFunctionWithoutScopeResolutionOperatorInspection" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="PhpUnitMissingTargetForTestInspection" enabled="true" level="INFORMATION" enabled_by_default="true" />
   <inspection_tool class="PhpUnitUndefinedDataProviderInspection" enabled="true" level="WARNING" enabled_by_default="true" />

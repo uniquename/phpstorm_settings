@@ -7,14 +7,14 @@
   </component>
   <component name="PhpInterpreters">
     <interpreters>
-      <interpreter home="/usr/local/Cellar/php/7.2.8/bin/php" id="81af512c-18fa-4ec1-9313-ec4d4db9462a" name="PHP 7.2" debugger_id="php.debugger.XDebug" />
+      <interpreter home="/usr/local/Cellar/php/7.2.9_2/bin/php" id="81af512c-18fa-4ec1-9313-ec4d4db9462a" name="PHP 7.2" debugger_id="php.debugger.XDebug" />
     </interpreters>
   </component>
   <component name="PhpInterpretersPhpInfoCache">
     <phpInfoCache>
       <interpreter name="PHP 7.2">
-        <phpinfo binary_type="PHP" php_cgi="/usr/local/Cellar/php/7.2.8/bin/php-cgi" php_cli="/usr/local/Cellar/php/7.2.8/bin/php" path_separator=":" version="7.2.8">
-          <additional_php_ini>/usr/local/etc/php/7.2/conf.d/ext-opcache.ini, /usr/local/etc/php/7.2/conf.d/ext-xdebug.ini</additional_php_ini>
+        <phpinfo binary_type="PHP" php_cgi="/usr/local/Cellar/php/7.2.9_2/bin/php-cgi" php_cli="/usr/local/Cellar/php/7.2.9_2/bin/php" path_separator=":" version="7.2.9">
+          <additional_php_ini>/usr/local/etc/php/7.2/conf.d/ext-imap.ini, /usr/local/etc/php/7.2/conf.d/ext-opcache.ini, /usr/local/etc/php/7.2/conf.d/ext-xdebug.ini</additional_php_ini>
           <configuration_file>/usr/local/etc/php/7.2/php.ini</configuration_file>
           <configuration_options>
             <configuration_option name="SMTP" value="localhost" />
@@ -86,7 +86,7 @@
             <configuration_option name="ignore_repeated_source" value="" />
             <configuration_option name="ignore_user_abort" value="0" />
             <configuration_option name="implicit_flush" value="1" />
-            <configuration_option name="include_path" value=".:/usr/local/Cellar/php/7.2.8/share/php/pear" />
+            <configuration_option name="include_path" value=".:/usr/local/Cellar/php/7.2.9_2/share/php/pear" />
             <configuration_option name="input_encoding" value="" />
             <configuration_option name="internal_encoding" value="" />
             <configuration_option name="intl.default_locale" value="" />
@@ -113,7 +113,7 @@
             <configuration_option name="mbstring.language" value="neutral" />
             <configuration_option name="mbstring.strict_detection" value="0" />
             <configuration_option name="mbstring.substitute_character" value="" />
-            <configuration_option name="memory_limit" value="4096M" />
+            <configuration_option name="memory_limit" value="8129M" />
             <configuration_option name="mysqli.allow_local_infile" value="1" />
             <configuration_option name="mysqli.allow_persistent" value="1" />
             <configuration_option name="mysqli.default_host" value="" />
@@ -200,7 +200,7 @@
             <configuration_option name="phar.require_hash" value="1" />
             <configuration_option name="phpdbg.auth" value="" />
             <configuration_option name="phpdbg.path" value="" />
-            <configuration_option name="post_max_size" value="8M" />
+            <configuration_option name="post_max_size" value="20M" />
             <configuration_option name="precision" value="14" />
             <configuration_option name="realpath_cache_size" value="4096K" />
             <configuration_option name="realpath_cache_ttl" value="120" />
@@ -253,7 +253,7 @@
             <configuration_option name="sys_temp_dir" value="" />
             <configuration_option name="track_errors" value="0" />
             <configuration_option name="unserialize_callback_func" value="" />
-            <configuration_option name="upload_max_filesize" value="2M" />
+            <configuration_option name="upload_max_filesize" value="20M" />
             <configuration_option name="upload_tmp_dir" value="" />
             <configuration_option name="url_rewriter.hosts" value="" />
             <configuration_option name="url_rewriter.tags" value="form=" />
@@ -370,6 +370,7 @@
             <extension name="gmp" />
             <extension name="hash" />
             <extension name="iconv" />
+            <extension name="imap" />
             <extension name="intl" />
             <extension name="json" />
             <extension name="ldap" />

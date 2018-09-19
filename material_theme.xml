@@ -4,8 +4,10 @@
     <option name="selectedTheme" value="DARKER" />
     <option name="highlightColor" value="80cbc4" />
     <option name="isContrastMode" value="true" />
+    <option name="isCustomTreeIndentEnabled" value="true" />
     <option name="accentColor" value="3f51b5" />
     <option name="compactSidebar" value="true" />
+    <option name="customSidebarHeight" value="20" />
     <option name="accentScrollbars" value="false" />
     <option name="isDecoratedFolders" value="false" />
     <option name="settingsSelectedTab" value="3" />

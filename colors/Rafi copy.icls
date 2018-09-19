@@ -1,8 +1,8 @@
 <scheme name="Rafi copy" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="1.0" />
   <option name="LINE_SPACING" value="0.8" />
-  <option name="EDITOR_FONT_SIZE" value="14" />
-  <option name="EDITOR_FONT_NAME" value="Monaco" />
+  <option name="EDITOR_FONT_SIZE" value="16" />
+  <option name="EDITOR_FONT_NAME" value="Menlo" />
   <colors>
     <option name="ANNOTATIONS_COLOR" value="3e83e7" />
     <option name="CARET_COLOR" value="ffff99" />
@@ -658,7 +658,7 @@
     </option>
     <option name="PHP_COMMENT">
       <value>
-        <option name="FOREGROUND" value="cccccb" />
+        <option name="FOREGROUND" value="555555" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -670,7 +670,7 @@
     </option>
     <option name="PHP_DOC_COMMENT_ID">
       <value>
-        <option name="FOREGROUND" value="cccccb" />
+        <option name="FOREGROUND" value="555555" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>

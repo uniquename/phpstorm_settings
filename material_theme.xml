@@ -5,8 +5,8 @@
     <option name="highlightColor" value="80cbc4" />
     <option name="isContrastMode" value="true" />
     <option name="isCustomTreeIndentEnabled" value="true" />
+    <option name="accentColor" value="3F51B5" />
     <option name="useMaterialIcons" value="false" />
-    <option name="compactSidebar" value="true" />
     <option name="customSidebarHeight" value="20" />
     <option name="accentScrollbars" value="false" />
     <option name="isDecoratedFolders" value="false" />

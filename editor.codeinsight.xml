@@ -2,7 +2,4 @@
   <component name="DaemonCodeAnalyzerSettings" profile="Project Default">
     <option name="NEXT_ERROR_ACTION_GOES_TO_ERRORS_FIRST" value="false" />
   </component>
-  <component name="PhpCodeFoldingSettings">
-    <option name="COLLAPSE_METHOD_BODY" value="true" />
-  </component>
 </application>
